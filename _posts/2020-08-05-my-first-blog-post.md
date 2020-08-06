@@ -1,6 +1,6 @@
 ---
 title: "заголовок метадаты"
-data: 2020-08-06
+date: 2020-08-06
 ---
 
 ### the horse is on the wall
